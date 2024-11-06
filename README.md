@@ -8,7 +8,7 @@ Generation
 ### ⚙️ Preparation
 
 1. **Environmental** settings: `pip install -r requirements.txt`
-2. **Data** Preparation: The dataset used in Code Generation are in : `./code_generation/Dataset`, The CodeNet and AVATAR dataset used in Code Translation can be found  [here](https://gofile.io/d/HFv3VX). 
+2. **Data** Preparation: The dataset used in Code Generation are in : `./code_generation/Dataset`, The CodeNet and AVATAR dataset used in Code Translation can be found  [here](https://gofile.io/d/z2dEcT). 
 3. **OpenAI API key** required: add your OpenAI API key, base url and other related settings in the `.env` file. You can also customize these two parameters to use the DeepSeek Model.
 
 
